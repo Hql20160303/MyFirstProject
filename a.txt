@@ -1,5 +1,4 @@
 aaaaaaaaaaa
 aaaaaa
-<<<<<<< HEAD
 继续写了一个功能
 修改了BUG
